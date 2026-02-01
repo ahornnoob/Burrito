@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "najo do geht scho mehr 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "wuhuuuu 14/14 🥰🚀💝",  // Shows when they go past 5000%
         high: "nochnn Stück 🚀💝",              // Shows when they go past 1000%
-        normal: "wuhuuuu 14/14 🥰"                           // Shows when they go past 100%
+        normal: "is oba shco eher wenig 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
